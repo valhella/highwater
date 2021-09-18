@@ -8,5 +8,5 @@
 
 <button name="button" onclick="https://nbviewer.jupyter.org/github/valhella/highwater/blob/master/Louisiana_Edit.ipynb">Click me</button>
 
-
+<form action="https://nbviewer.jupyter.org/github/valhella/highwater/blob/master/Louisiana_Edit.ipynb" method="get" target="_blank"><button type="submit">Click me</button></form>
 

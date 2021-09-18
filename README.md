@@ -6,8 +6,6 @@
 [Go to the story](https://nbviewer.jupyter.org/github/valhella/highwater/blob/master/Louisiana_Edit.ipynb)
 
 
-{% include button.html url="http://www.google.com" %}
-
 <button name="button" onclick="https://nbviewer.jupyter.org/github/valhella/highwater/blob/master/Louisiana_Edit.ipynb">Click me</button>
 
 

@@ -4,3 +4,12 @@
 **By Val Masters, 2019**
 
 [Go to the story](https://nbviewer.jupyter.org/github/valhella/highwater/blob/master/Louisiana_Edit.ipynb)
+
+
+{% include button.html url="http://www.google.com" %}
+
+<button name="button" onclick="http://www.google.com">Click me</button>
+
+[Click me](http://www.google.com){: .btn}
+
+

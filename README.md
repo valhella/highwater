@@ -10,6 +10,5 @@
 
 <button name="button" onclick="https://nbviewer.jupyter.org/github/valhella/highwater/blob/master/Louisiana_Edit.ipynb">Click me</button>
 
-[Click me](http://www.google.com){: .btn}
 
 

@@ -5,4 +5,4 @@
 
 [Go to the story](https://nbviewer.jupyter.org/github/valhella/highwater/blob/master/Louisiana_Edit.ipynb)
 
-[Click me](http://www.google.com){: .btn}
+<form action="https://stackoverflow.com/" method="get" target="_blank"><button type="submit">Click me</button></form>
